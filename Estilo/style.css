@@ -12,3 +12,15 @@ body {
     align-items: center;
     background-color: #212121;
 }
+
+/*Texto único*/
+
+h1 {
+    color: #fff;
+}
+
+/*Modificações gerais*/
+
+.trilho {
+
+}
