@@ -40,11 +40,14 @@ h1 {
     position: absolute;
     left: 0;
     transition: .5s;
-    background-color: #fff;
+    background-color: #000;
+}
+
+.trilho.dark {
+    background-color: rgb(115, 115, 115);
 }
 
 .trilho.dark .indicador {
     left: 200px;
-    background-color: rgb(0, 0, 0);
-    border: 1px solid greenyellow;
+    background-color: #fff;
 }
