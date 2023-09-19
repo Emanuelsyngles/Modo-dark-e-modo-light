@@ -12,6 +12,7 @@ body {
     flex-direction: column;
     align-items: center;
     background-color: #212121;
+    transition: .5s;
 }
 
 /*Texto único*/
@@ -44,10 +45,15 @@ h1 {
 }
 
 .trilho.dark {
-    background-color: rgb(115, 115, 115);
+    background-color: rgb(191, 191, 191);
 }
 
 .trilho.dark .indicador {
     left: 200px;
     background-color: #fff;
+}
+
+body.dark {
+    background-color: #e4e4e4;
+    transition: 1s;
 }
