@@ -1,3 +1,8 @@
+![4c03-899b-7d3c18ec14c5)
+Captura de tela 2023-09-27 194903](https://github.com/Emanuelsyngles/Modo-dark-e-modo-light/assets/122393755/4094c189-d34a-4c03-899b-7d3c18ec14c5)
+![Captura de tela 2023-09-27 194911](https://github.com/Emanuelsyngles/Modo-dark-e-modo-light/assets/122393755/8dd12591-0096-4749-a02b-ee2fb18e0170)
+
+ 
  ## Informações
  Esse projeto, deixa a sua página web em modo claro ou escuro, assim ela se adapta para que o usuário tenha a página de acordo
  com a sua vontade.
